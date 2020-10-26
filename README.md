@@ -85,7 +85,7 @@ Here are some more reference-like resources. These might be slightly technical, 
 
 You should be able to...
 
-- [X] Open the terminal from within Mac Finder / Windows
+- [x] Open the terminal from within Mac Finder / Windows
 - [x] Use `cd <directoryname>` to navigate between directories
 - [x] Use `ls` to list the contents of a directory
 - [x] Use `mkdir <directoryname>` to create an empty directory
