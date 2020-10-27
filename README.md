@@ -183,7 +183,7 @@ Building on `basic-tags.html`, you should be able to create tables of varying si
 
 - [x] ✏️ Create a 3x3 table using the `<table>`, `<tr>`, and `<td>` tags
 - [x] ✏️ Add headings using the `<th>` tag
-- [ ] ✏️ Create two more tables of different dimensions
+- [x] ✏️ Create two more tables of different dimensions
 
 ### Multimedia
 
