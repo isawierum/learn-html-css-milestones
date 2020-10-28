@@ -227,10 +227,10 @@ Using `basic-css.html`, you should be able to demonstrate the following by using
 - [ ] Selectors...
   - [x] ✏️ Type / tag selectors
   - [x] ✏️ Class selectors
-  - [ ] ✏️ ID selectors
+  - [x] ✏️ ID selectors
 - [ ] Combinators...
-  - [ ] ✏️ Descendant combinator
-  - [ ] ✏️ Child combinator
+  - [x] ✏️ Descendant combinator
+  - [x] ✏️ Child combinator
 
 ### Styling A Page
 
